@@ -24,7 +24,7 @@ class Point {
 };
 
 /*
-    function takes 2 points as arguments and perfoms the calculation 
+    function takes 2 points as arguments and performs the calculation 
     on them to determine the distance between them
 */
 double distCalculator(Point A, Point B) {
